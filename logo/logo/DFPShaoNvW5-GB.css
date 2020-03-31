@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "DFPShaoNvW5-GB";
+    src: url("DFPShaoNvW5-GB.eot"); /* IE9 */
+    src: url("DFPShaoNvW5-GB.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("DFPShaoNvW5-GB.woff") format("woff"), /* chrome、firefox */
+    url("DFPShaoNvW5-GB.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("DFPShaoNvW5-GB.svg#DFPShaoNvW5-GB") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
